@@ -6,7 +6,7 @@
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
-import UIKit
+import UIKit4
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
